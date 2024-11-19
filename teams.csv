@@ -1,13 +1,13 @@
-Adcentral ID,Email,Name,Rep_Or_Director,Status,Region,Team_Currency,Team_Name,Country
-1,1@maggietest.com,Jaime Uehara,Director,Active,The Americas,USD,Orange,US
-2,2@maggietest.com,Jocelyn Delahunty,Director,Active,The Americas,USD,Apple,US
-3,3@maggietest.com,Tomoaki Chatterjea,Director,Active,The Americas,USD,Pineapple,US
-4,4@maggietest.com,Shinya Topouzian,Director,Active,The Americas,USD,Grape,US
+ID,Email,Name,Rep_Or_Director,Status,Region,Team_Currency,Team,Country
+1,1@maggietest.com,Jaime Uehara,Director,Active,The Americas,JPY,Orange,Japan
+2,2@maggietest.com,Jocelyn Delahunty,Director,Active,The Americas,EUR,Apple,Netherlands
+3,3@maggietest.com,Tomoaki Chatterjea,Director,Active,The Americas,AUD,Pineapple,Australia
+4,4@maggietest.com,Shinya Topouzian,Director,Active,The Americas,GBP,Grape,UK
 5,5@maggietest.com,Paige Jordao,Rep,Active,Asia-Pac,JPY,Cherry,Japan
-6,6@maggietest.com,Stephen Doi,Rep,Active,Asia-Pac,JPY,Strawberry,Japan
-7,7@maggietest.com,Carly Muller,Rep,Active,Asia-Pac,JPY,Blueberry,Japan
-8,8@maggietest.com,Joseph Blattermann,Rep,Active,Asia-Pac,JPY,Orange,Japan
-9,9@maggietest.com,Sylvest Wahabi,Rep,Active,Asia-Pac,JPY,Apple,Japan
+6,6@maggietest.com,Stephen Doi,Rep,Active,Asia-Pac,CAD,Strawberry,Canada
+7,7@maggietest.com,Carly Muller,Rep,Active,Asia-Pac,INR,Blueberry,India
+8,8@maggietest.com,Joseph Blattermann,Rep,Active,Asia-Pac,BRL,Orange,Brazil
+9,9@maggietest.com,Sylvest Wahabi,Rep,Active,Asia-Pac,SGD,Apple,Singapore
 10,10@maggietest.com,Michael Dubots,Rep,Active,Asia-Pac,JPY,Pineapple,Japan
 11,11@maggietest.com,Eimear Albert,Rep,Active,Asia-Pac,JPY,Grape,Japan
 12,12@maggietest.com,Chie Lemonier,Rep,Active,Asia-Pac,JPY,Cherry,Japan
